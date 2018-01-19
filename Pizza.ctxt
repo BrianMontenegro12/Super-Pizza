@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Pizza
+comment1.params=pC\ xP\ yP
+comment1.target=Pizza(java.awt.Color,\ int,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Pizza\r\n
+comment2.params=g
+comment2.target=void\ drawPizza(java.awt.Graphics)
+numComments=3
